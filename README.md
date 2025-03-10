@@ -1,4 +1,4 @@
-!(Cover)[image](https://github.com/user-attachments/assets/4847770f-1fee-461f-a747-17a54996f904)
+![image](https://github.com/user-attachments/assets/4847770f-1fee-461f-a747-17a54996f904)
 
 
 # 💻 Projeto
